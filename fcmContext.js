@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import messaging from '@react-native-firebase/messaging';
-import App from './App';
+import App from './src/App';
 
 const FCMContext = React.createContext();
 

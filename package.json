@@ -12,10 +12,14 @@
   "dependencies": {
     "@react-native-firebase/app": "^14.1.0",
     "@react-native-firebase/messaging": "^14.1.0",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/native-stack": "^6.5.0",
     "@rpldy/native-uploady": "^0.17.2",
     "react": "17.0.2",
     "react-native": "0.66.4",
-    "react-native-document-picker": "^8.0.0"
+    "react-native-document-picker": "^8.0.0",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.11.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
